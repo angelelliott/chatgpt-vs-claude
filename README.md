@@ -4,7 +4,7 @@ In this repository, I hold all the files concerning an experiment I conducted to
 # Overview of repository 
 
 Rodriguez24.pdf --> Report written in LaTeX <br>
-chatgpt-vs-claude.xlsx --> Datasets <br>
+chatgpt-vs-claude.xlsx --> Datasets created by me <br>
 data_analysis.ipynb --> Notebook of visualizations <br>
 genai.sql --> Database management <br>
 

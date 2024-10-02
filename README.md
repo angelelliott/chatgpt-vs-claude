@@ -4,7 +4,7 @@ The generative AI revolution does not come without challenges. The growing popul
 
 # Overview of repository 
 
-Rodriguez24.pdf --> Report written in LaTeX
+Rodriguez24.pdf --> Report written in LaTeX <br>
 chatgpt-vs-claude.xlsx --> Datasets 
 data_analysis.ipynb --> Notebook of visualizations
 genai.sql --> Database management

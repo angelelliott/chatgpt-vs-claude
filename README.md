@@ -1,5 +1,5 @@
 # Overview 
-In this repository, I hold all the files concerning an experiment I conducted to assess Claude and ChatGPT's understanding of a complex and nuanced topic: immigration. 
+In this repository, I hold all the files I created for an experiment I conducted to assess Claude and ChatGPT's understanding of a complex and nuanced topic: immigration. 
 
 # Overview of repository 
 
